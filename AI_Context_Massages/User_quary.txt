@@ -1,0 +1,10 @@
+task = """
+Use browser tools step by step:
+
+1. Navigate to https://www.google.com
+2. Find the search box (combobox labeled "Search")
+3. Type "Testing Expert company"
+4. Press Enter
+5. Click the first result
+
+Do not stop until all steps are complete.
